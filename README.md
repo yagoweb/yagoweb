@@ -30,9 +30,9 @@ Acredito que a evolução é contínua no mundo da tecnologia e da segurança. E
 
 #### 📫 Conecte-se comigo:
 
-* **LinkedIn:** [Seu link do LinkedIn aqui] (Altamente recomendado adicionar!)
+* **LinkedIn:** []
 * **Twitter:** [https://x.com/hackertico71478]
-* **Meu Blog/Portfolio (opcional):** [Seu link para um blog pessoal ou portfolio, se tiver]
+* **Meu Blog/Portfolio (opcional):** []
 
 ---
 
