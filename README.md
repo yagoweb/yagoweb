@@ -1,16 +1,39 @@
-## Hi there 👋
+### Olá ! 👋 Eu sou Yago Lucas.
 
-<!--
-**yagoweb/yagoweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional apaixonado por tecnologia e segurança da informação, com foco em **Pentest (Teste de Intrusão)**. Minha jornada no mundo da programação me levou a explorar e me aprofundar em algumas das linguagens e tecnologias mais versáteis do mercado.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 O que estou aprendendo e desenvolvendo:
+
+* **Python:** Minha ferramenta principal para automação, scripting de segurança e desenvolvimento de ferramentas.
+* **JavaScript:** Essencial para entender e explorar vulnerabilidades em aplicações web, além de construir interfaces interativas.
+* **HTML & CSS:** A base para compreender a estrutura e o estilo das páginas web, crucial para web hacking e desenvolvimento front-end.
+* **Análise de Segurança para Pentest:** Estou constantemente aprimorando minhas habilidades em reconhecimento, varredura de vulnerabilidades, exploração, pós-exploração e relatório de segurança.
+
+---
+
+#### 🔭 Meus Interesses:
+
+* **Segurança Ofensiva:** Especialmente Web Hacking, análise de vulnerabilidades e técnicas de exploração.
+* **Automação de Segurança:** Usando Python para criar scripts e ferramentas que otimizam processos de pentest.
+* **DevSecOps:** Integrando práticas de segurança no ciclo de vida do desenvolvimento de software.
+* **Hacking Ético:** Contribuindo para um ambiente digital mais seguro através da identificação proativa de falhas.
+
+---
+
+#### 🌱 Em constante aprendizado:
+
+Acredito que a evolução é contínua no mundo da tecnologia e da segurança. Estou sempre buscando novos desafios, cursos (como os da Desec, Crowsec, Universidade Hacker, GoHacking e Sec4US) e projetos para expandir meu conhecimento e aplicar na prática.
+
+---
+
+#### 📫 Conecte-se comigo:
+
+* **LinkedIn:** [Seu link do LinkedIn aqui] (Altamente recomendado adicionar!)
+* **Twitter:** [https://x.com/hackertico71478]
+* **Meu Blog/Portfolio (opcional):** [Seu link para um blog pessoal ou portfolio, se tiver]
+
+---
+
+> "A segurança não é um produto, mas um processo."
