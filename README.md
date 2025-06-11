@@ -1,6 +1,6 @@
 ### Olá ! 👋 Eu sou Yago Lucas.
 
-Sou um profissional apaixonado por tecnologia e segurança da informação, com foco em **Pentest (Teste de Intrusão)**. Minha jornada no mundo da programação me levou a explorar e me aprofundar em algumas das linguagens e tecnologias mais versáteis do mercado.
+Sou um estudante apaixonado por tecnologia e segurança da informação, com foco em **Pentest (Teste de Intrusão)**. Minha jornada no mundo da programação me levou a explorar e me aprofundar em algumas das linguagens e tecnologias mais versáteis do mercado.
 
 ---
 
